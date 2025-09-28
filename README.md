@@ -7,8 +7,8 @@
 
 I am a **Java Backend developer** and **Full-stack enthusiast** passionate about building robust, scalable applications. My focus is on leveraging modern frameworks like **Spring Boot** for the backend and **React** for dynamic, responsive user interfaces. I love exploring emerging technologies, especially integrating **AI and Machine Learning** into practical applications.
 
-* I’m currently focused on enhancing my skills in system design and cloud architecture.
-* I’m always learning new features in the Spring Ecosystem and exploring advanced React patterns.
+* I’m currently focused on enhancing my skills in backend features and cloud architecture.
+* I’m always learning new features in the Spring Ecosystem and exploring advanced GenAI features.
 * Connect with me: [LinkedIn](https://www.linkedin.com/in/ajay-jammuladinne-ba1363265/)
 * Email: [ajayjammuladinne@gmail.com](mailto:ajayjammuladinne@gmail.com)
 * Practice problems: [LeetCode](https://leetcode.com/u/Ajayj05/)
